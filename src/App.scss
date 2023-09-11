@@ -1,0 +1,19 @@
+.headerContainer {
+  align-items: center;
+  background-image: url('../images/header.jpg');
+  background-size: 100%;
+  border-bottom: 2px solid whitesmoke;
+  display: flex;
+  flex-grow: 1;
+  height: 350px;
+  justify-content: center;
+  top: 0;
+
+
+  h1 {
+    background-color: rgba(245, 245, 245, 0.9);
+    border-radius: 0.1em;
+    color: #E68552;
+    padding: 1em 3.5em;
+  }
+}
